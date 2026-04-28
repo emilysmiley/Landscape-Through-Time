@@ -1,2 +1,18 @@
+# Environment / credentials — NEVER commit
 .Renviron
-.Rproj.user
+.Renviron.local
+
+# R runtime artifacts
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user/
+
+# rsconnect deployment metadata
+rsconnect/
+
+# OS junk
+.DS_Store
+Thumbs.db
+*.log
