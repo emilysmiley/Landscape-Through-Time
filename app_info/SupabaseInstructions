@@ -1,0 +1,24 @@
+Go to supabase.com
+
+log in with github
+
+accept invitation to organization
+
+CapstoneBackend is the hub where we can add paintings, and manage submissions
+
+To get this to work on your r
+
+Create a new txt file and name it .Renviron (needs to be exactly that)
+  save it in your main project folder
+  
+SUPABASE_HOST=db.oqfjcpagmhrgawvyrutr.supabase.co
+SUPABASE_DB=postgres
+SUPABASE_USER=postgres
+SUPABASE_PASSWORD=AlexBenEmily123!
+
+Copy and paste lines 14-18 and paste it in your new .Renviron file
+
+Make sure you have pulled everything into main and merged with your branch
+
+test run app and it should show all the paintings in the gallery along with a test one
+
