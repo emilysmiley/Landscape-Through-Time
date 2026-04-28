@@ -1,0 +1,19 @@
+# =============================================================================
+# .Renviron.example — Template for environment variables
+# -----------------------------------------------------------------------------
+# Copy this file to `.Renviron` (no extension) in the project root and fill in
+# the real values. NEVER commit `.Renviron` to Git — it is excluded via
+# `.gitignore`.
+#
+# After editing, restart your R session (Session -> Restart R) so R picks up
+# the new variables.
+# =============================================================================
+
+# Supabase Postgres credentials.
+# Use the connection POOLER hostname (not the direct hostname) — shinyapps.io
+# does not support IPv6, and the direct hostname resolves to IPv6 only.
+SUPABASE_HOST=aws-0-us-west-2.pooler.supabase.com
+SUPABASE_PORT=6543
+SUPABASE_DB=postgres
+SUPABASE_USER=postgres.YOUR_PROJECT_REF
+SUPABASE_PASSWORD=your-password-here
