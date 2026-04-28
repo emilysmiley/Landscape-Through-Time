@@ -16,7 +16,6 @@ Key features include:
 * A multi-type contribution system supporting contemporary photos, user-uploaded paintings, museum photos, and museum information submissions
 * A side-by-side comparison tool for analyzing historical and contemporary landscapes
 * Administrative tools with filterable workflows for managing and validating content
-* A glassmorphism-styled UI with light and dark theme support and mobile-responsive design
 
 ---
 
