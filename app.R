@@ -24,7 +24,7 @@
 #      SUPABASE_HOST, SUPABASE_PORT, SUPABASE_DB, SUPABASE_USER,
 #      SUPABASE_PASSWORD.
 #    * SUPABASE_HOST must be the pooler hostname (port 6543) -- the direct
-#      hostname resolves to IPv4, which shinyapps.io does not support.
+#      hostname resolves to IPv6, which shinyapps.io does not support.
 #    * `gssencmode = "disable"` is required on the pooler connection.
 #
 #  File layout:
