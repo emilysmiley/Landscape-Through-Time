@@ -6,7 +6,7 @@ Landscape Through Time is an interactive geospatial web application that allows 
 
 The primary goal of the application is to provide an interactive way to analyze spatial and temporal relationships in landscape art while encouraging user participation and data contribution.
 
-This project demonstrates full-stack geospatial application development, relational database design with foreign-key relationships, spatial visualization, user-generated content workflows, and interactive UI development using R Shiny and PostgreSQL.
+This project demonstrates end to end geospatial application development, relational database design with foreign-key relationships, spatial visualization, user-generated content workflows, and interactive UI development using R Shiny and PostgreSQL.
 
 Key features include:
 
